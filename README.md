@@ -43,21 +43,8 @@
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
 
-## 🏆 GitHub Trophies
-
+## ;🏆 GitHub Trophies
+\147
 <p><img src="https://github-profile-trophy.vercel.app/?username=hackinglucky">
 </p>
 
-## 📊 Github Status
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=hackinglucky"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=hackinglucky%20&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackinglucky%20&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/hackinglucky"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hackinglucky"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=hackinglucky%20&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
