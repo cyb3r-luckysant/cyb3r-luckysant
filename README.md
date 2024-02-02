@@ -35,11 +35,6 @@
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
 
-## ;🏆 GitHub Trophies
-\147
-<p><img src="https://github-profile-trophy.vercel.app/?username=hackinglucky">
-</p>
-
 ###
 <img align="right" height="150" src="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb"  />
 
