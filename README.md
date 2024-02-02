@@ -67,5 +67,5 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=LUCKY+SANT;ETHICAL+HACKER;Programmer;" alt="Typing SVG" /></a>
 
+<img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"/>
 
-###
