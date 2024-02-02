@@ -70,6 +70,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hackerlucky/hackerlucky/output/snake.svg" alt="Snake animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=LUCKY+SANT;ETHICAL+HACKER;Programmer;" alt="Typing SVG" /></a>
+
 
 ###
